@@ -18,8 +18,8 @@ Maintain the nested structure provided by the existing foreach and if statements
 
 ## Declare and Initialize Variables:
 
-Declare and initialize integer variables as required for calculating sums.
-Declare and initialize decimal variables as required for calculations and score report values.
+* Declare and initialize integer variables as required for calculating sums.
+* Declare and initialize decimal variables as required for calculations and score report values.
 
 ## Calculate Sum of Scores:
 
@@ -38,6 +38,7 @@ Calculate the average for exam scores and extra credit scores using the relevant
 ### Calculate Extra Credit Points Earned:
 
 ### Calculate the extra credit points earned as follows:
+
 Divide 10% of the extra credit score sum by the number of exams.
 
 ## Update Console Output:
