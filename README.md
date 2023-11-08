@@ -2,13 +2,13 @@
 Student Grading Application Update
 This document outlines the updates to the Student Grading Application based on the teacher's requirements. The application is used to calculate and report student grades, taking into account graded exams and extra credit assignments.
 
-#Goal
+# Goal
 The goal of this update is to instantiate the required variables for the updated score report, perform necessary calculations, and update the Console.WriteLine() statement to display student grades in accordance with the teacher's requirements.
 
-#Updates
+# Updates
 The updated application must adhere to the following specifications:
 
-#Use Existing Arrays and Values:
+# Use Existing Arrays and Values:
 
 Utilize the existing arrays and array values for all student grade calculations.
 Nested Structure:
